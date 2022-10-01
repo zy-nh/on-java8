@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.functional_interface.more;
+package cn.zhuyee.functional_interface.more;
 
 /**
  * <h2>自定义函数式接口</h2>

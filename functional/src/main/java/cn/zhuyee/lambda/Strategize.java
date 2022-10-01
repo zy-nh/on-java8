@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.lambda;
+package cn.zhuyee.lambda;
 
 
 public class Strategize {

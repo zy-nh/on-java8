@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.functional_interface.more;
+package cn.zhuyee.functional_interface.more;
 
 import java.util.function.BiConsumer;
 

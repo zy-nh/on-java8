@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.recursion;
+package cn.zhuyee.recursion;
 
 /**
  * <h2>返回 int 接口</h2>

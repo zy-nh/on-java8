@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.lambda;
+package cn.zhuyee.lambda;
 
 /**
  * <h2>Lambda表达式的使用</h2>

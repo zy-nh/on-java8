@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.recursion;
+package cn.zhuyee.recursion;
 
 /**
  * <h2>递归的 lambda 表达式求斐波那契数列</h2>

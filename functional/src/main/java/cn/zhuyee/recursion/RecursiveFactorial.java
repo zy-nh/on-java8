@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.recursion;
+package cn.zhuyee.recursion;
 
 /**
  * <h2>递归方法求阶乘</h2>

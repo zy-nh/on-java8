@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.combine_function;
+package cn.zhuyee.combine_function;
 
 import java.util.function.Function;
 

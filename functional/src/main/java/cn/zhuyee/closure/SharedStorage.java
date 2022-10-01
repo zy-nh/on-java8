@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.closure;
+package cn.zhuyee.closure;
 
 import java.util.function.IntSupplier;
 

@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.currying;
+package cn.zhuyee.currying;
 
 import java.util.function.Function;
 

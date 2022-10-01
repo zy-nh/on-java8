@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.method_reference;
+package cn.zhuyee.method_reference;
 
 /**
  * <h2>方法有多个参数，只要遵循（接口方法）第一个参数取的是 this 这种模式</h2>

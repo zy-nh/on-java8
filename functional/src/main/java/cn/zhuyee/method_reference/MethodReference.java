@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.method_reference;
+package cn.zhuyee.method_reference;
 
 /**
  * <h2>方法引用：类名|对象名::方法名</h2>

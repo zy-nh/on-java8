@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.method_reference;
+package cn.zhuyee.method_reference;
 
 /**
  * <h2>未绑定对象的方法引用</h2>

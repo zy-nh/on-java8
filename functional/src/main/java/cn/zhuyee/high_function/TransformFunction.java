@@ -1,4 +1,4 @@
-package main.java.cn.zhuyee.high_function;
+package cn.zhuyee.high_function;
 
 import java.util.function.Function;
 
